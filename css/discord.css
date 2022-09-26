@@ -18,4 +18,6 @@ flex-wrap: wrap;}
     background-color: blueviolet;
 padding: 2rem;
 margin: 2rem auto;}
+.blue{margin: 1rem 0; background-color: blue;height: 400px; padding: 2rem 0;width: 60%;}
+.rosa{margin: 1rem 0; background-color: rosybrown;height: 400px;padding: 2rem 0;width: 40%;}
     
