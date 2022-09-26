@@ -12,7 +12,7 @@ text-align: center;}
 margin: auto;
 display: flex;
 flex-wrap: wrap;}
-.prior{flex-grow: 1;}
+.prior{flex-grow: 2;background-color: aqua;}
 .picture{width: 80%;
     height: 500px;
     background-color: blueviolet;
@@ -20,4 +20,6 @@ padding: 2rem;
 margin: 2rem auto;}
 .blue{margin: 1rem 0; background-color: blue;height: 400px; padding: 2rem 0;width: 60%;}
 .rosa{margin: 1rem 0; background-color: rosybrown;height: 400px;padding: 2rem 0;width: 40%;}
-    
+.txtimg{width: 100%;background-color: chartreuse;height: 500px;margin: 1rem 0;flex-grow: 1;}
+.footrow{padding: 1rem;background-color: blueviolet;height: 400px;border: 2px dotted green;flex-grow: 1;}
+.x2{flex-grow: 2;background-color: crimson;}
