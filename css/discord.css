@@ -3,15 +3,19 @@ padding: 0;
 margin: 0;}
 nav div div div{padding: 1rem; border: 2px dotted blue; height: 2rem;
 background-color: aqua;
-text-align: center;padding: auto;}
+text-align: center;}
 .nav{
     width: 100%;
     display: flex;
-    margin: auto;
-    flex-wrap: wrap;
-justify-content: center;}
+    flex-wrap: wrap;}
 .container{width: 920px;
 margin: auto;
 display: flex;
 flex-wrap: wrap;}
 .prior{flex-grow: 1;}
+.picture{width: 80%;
+    height: 500px;
+    background-color: blueviolet;
+padding: 2rem;
+margin: 2rem auto;}
+    
